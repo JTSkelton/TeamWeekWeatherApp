@@ -55,7 +55,7 @@ run $ npm run start to bring up a live server in your browser (Google Chrome pre
 
 - _No Known Issues_
 
-## Contact Me
+## Contact
 
 _Please contact one of us if you run into any issues or have questions, ideas or concerns:_
 _[skelton.jt9@gmail.com, cnakayam@gmail.com, cdepastene@gmail.com, ebruerenb@gmail.com, pecurran@hotmail.com]_
